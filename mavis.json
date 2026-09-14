@@ -1,0 +1,7 @@
+{
+  "name": "Convert Anything",
+  "description": "JSON, CSV, YAML and Markdown tables, converted between each other offline - with a real CSV parser that handles quoted commas and honest limits on the YAML it supports.",
+  "entry": "index.html",
+  "category": "Document Conversion",
+  "keywords": ["open convert anything", "convert json to csv", "turn this into a markdown table", "csv to json"]
+}
